@@ -31,9 +31,26 @@ visual representation and we encourage everyone to consciously reject these
 clichés and make honest attempts to find creative other solutions to
 visualize/sonify/represent them.
 
+## Format
+
+In short: Still TBD.
+
+Initial community feedback seems to show a general preference for a
+slower-than-daily pace, e.g. weekly. This makes sense, because the stated aim is
+"learning new things" (in addition to creating "interesting things") and faster
+is not always better! In general, only because there will be altogether 30
+prompts, there should be however no expectation of daily participation. Also
+participation in one's own time _after_ April 2022 is highly encouraged and
+would still be individually useful... Get in touch with your own thoughts on the
+matter!
+
 ## Required skills
 
-This is not a curriculum and should not be seen as a form of courseware. There're also no specific requirements or languages. Practically though, you should already feel (quite) familiar with your chosen language or toolset, so that your focus can be on the creative exploration of the prompts, rather than struggling along with syntax & fundamental semantics.
+This is not a curriculum and should not be seen as a form of courseware.
+There're also no specific requirements or languages. Practically though, you
+should already feel (quite) familiar with your chosen language or toolset, so
+that your focus can be on the creative exploration of the prompts, rather than
+struggling along with syntax & fundamental semantics.
 
 ## (Very incomplete) List of topics
 
