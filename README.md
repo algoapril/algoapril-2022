@@ -107,6 +107,9 @@ More to come/select...
 
 ## Prompts
 
+For each prompt we will try to provide a list of references, tutorial links, and
+where applicable, images/diagrams/videos, (pseudo)code examples.
+
 TODO - to be extracted & ordered from above topics
 
 ## Resources
