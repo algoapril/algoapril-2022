@@ -10,24 +10,30 @@ Unlike other initiatives like
 [#codevember](https://twitter.com/hashtag/codevember?src=hashtag_click&f=live),
 [#nodevember](https://twitter.com/hashtag/nodevember?src=hashtag_click&f=live)
 etc., all of which are predominantly using visual/conceptual prompts, the focus
-of initiative is on algorithmic literacy, using technical, algorithmic prompts
-(of course, with some [visual] references and study materials) without further
-prescribing how these algorithms should be used. The only aim, goal and hope is
-for people to **creatively engage** with these techniques, breaking 'em, hacking
-'em and finding interesting uses to create outcomes, which could be considered
-artistic. Algorithmic layering is encouraged at each turn!
+of the `#AlgoApril` initiative is on algorithmic literacy, using technical,
+algorithmic prompts (of course, with some [visual] references and study
+materials) without further prescribing how these algorithms should be used. The
+only aim, goal and hope is for people to **creatively engage** with these
+techniques, breaking 'em, hacking 'em and finding interesting uses to create
+outcomes, which could be considered artistic. Algorithmic layering is encouraged
+at each turn!
 
 In some sense, this more "bottom-up" approach to creation is maybe alien to
-some, but it has the potential to produce a much wider scope of outcomes
-(hopefully not only visual - audio, text and other outputs are highly
-encouraged!). There's also hope it _could_ be more educational, helping people
-to engage with a larger repertoire of fundamental algorithmic tools and then
-apply & mix them in their own work/practice.
+some, but the lack of explicit aesthetic or conceptual/artistic goals
+has the potential to produce a much wider scope of outcomes (hopefully not only
+visual - audio, text and other outputs are highly encouraged!). There's also
+hope it _could_ be more educational, helping people to engage with a larger
+repertoire of fundamental algorithmic tools and then apply & mix them in their
+own work/practice.
 
 Many of the topics & algorithms selected here will have a more or less known
 visual representation and we encourage everyone to consciously reject these
 clichés and make honest attempts to find creative other solutions to
 visualize/sonify/represent them.
+
+## Required skills
+
+This is not a curriculum and should not be seen as a form of courseware. There're also no specific requirements or languages. Practically though, you should already feel (quite) familiar with your chosen language or toolset, so that your focus can be on the creative exploration of the prompts, rather than struggling along with syntax & fundamental semantics.
 
 ## (Very incomplete) List of topics
 
@@ -142,3 +148,4 @@ Please get in touch:
 
 ## License
 
+© 2022 The #AlgoApril authors // MIT licensed
