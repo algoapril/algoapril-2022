@@ -29,11 +29,14 @@ visual representation and we encourage everyone to consciously reject these
 clichés and make honest attempts to find creative other solutions to
 visualize/sonify/represent them.
 
-## (Incomplete) List of topics
+## (Very incomplete) List of topics
 
-These will still have to be properly ordered and turned into actual daily
-prompts with linked references/materials. In no particular order or importance
-(yet), currently merely a brain dump:
+These will still have to be properly selected, ordered and turned into actual
+daily prompts with linked references/materials. In no particular order or
+importance (yet)! **The current list is very early WIP, more of a brain dump**
+and has a large thematic overlap with a courseware I'm currently preparing for
+various [thi.ng/umbrella](https://thi.ng/umbrella) packages. Feel free to
+add/remove (see section below)!
 
 1) Non-uniform random distributions
     - Gaussian/normal, geometric, exponential...
@@ -46,14 +49,38 @@ prompts with linked references/materials. In no particular order or importance
 1) Metrics & dissimilarities
     - Manhattan, Chebyshev, Haversine, Hamming, Canberra, Minkowski...
     - Bray-Curtis, Jaccard, Sørensen–Dice...
+1) (Signed) Distance Fields
+    - 2D/3D shape/form creation/combination/rendering
+    - Spatial manipulations
+    - Typography
+1) Interpolation
+    - 1D/2D/3D/nD
+    - non-linear functions
+    - bilinear, trilinear, cubic, bicubic, hermite, bezier etc.
+1) DSP
+    - Waves/oscillators
+        - Additive vs. subtractive synthesis
+        - Granular synthesis
+        - Physical modeling
+        - AM/FM, LFOs (modulation)
+    - Filtering
+        - IIR vs. FIR type filters
+        - LP/HP/BP/Biquad
+    - DFT/FFT
+        - Window functions
 1) Trees
     - Spatial indexing: Quad/Oct/Kd-trees
     - Sparse Voxel trees
-    - Abstract syntax trees (e.g. S-expressions)
+    - Interval trees
+    - Abstract syntax trees (e.g. S-expressions, Lisp, WASM, parsing)
+1) Subdivisions
+    - Tree vs curve/shape/mesh
+    - Chaikin, Catmull-clark, Doo-Sabin, Loop etc.
+    - Displacements
 1) Graphs
     - Directed vs. undirected
-    - Adjacency matrix/list
-    - Clusters
+    - Adjacency/degree matrices
+    - Analysis/visualization
 1) Disjoint Sets
     - Unionfind (e.g. blob detection/labeling)
     - Mazes
@@ -66,6 +93,17 @@ prompts with linked references/materials. In no particular order or importance
     - Kernels
     - Cellular automata
     - Audio (1D), Image (2D), Volume (3D) filtering
+1) Dataflow/reactivity
+    - graph/event based
+    - spreadsheet
+    - transformation, signal/collect/broadcast
+    - deterministic vs. undeterministic
+1) Physics
+    - rigid vs. softbody vs. fluids
+    - behaviors/constraints
+1) Meshes
+
+More to come/select...
 
 ## Prompts
 
