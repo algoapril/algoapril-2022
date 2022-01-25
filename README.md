@@ -123,7 +123,7 @@ TODO
 ## Contributing
 
 Looking for contributors. For now, please feel free to [propose topics, prompts,
-references and any other useful materials]().
+references and any other useful materials](https://github.com/algoapril/algoapril-2022/issues).
 
 There're two barebones project boards:
 
